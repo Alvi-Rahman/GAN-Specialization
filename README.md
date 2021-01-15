@@ -32,4 +32,4 @@ The GAN Specialization on Coursera contains three courses:
 # Specialization Completion Certificate
 
 
-![Certificate](Coursera QCCYR6T39MXA.png)
+![Certificate](Coursera_QCCYR6T39MXA.png)
