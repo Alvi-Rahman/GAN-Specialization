@@ -104,8 +104,8 @@ The GAN Specialization on Coursera contains three courses:
 - Explore the applications of GANs and examine them w.r.t. data augmentation, privacy, and anonymity.
 - Improve your downstream AI models with GAN-generated data.
 - Assignment:
-	- [Data Augmentation](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/C3W1/Data%20Augmentation.ipynb)
-	- [Generative Teaching Networks](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/C3W1/Generative_Teaching_Networks.ipynb)
+	- [Data Augmentation](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%201/Data%20Augmentation.ipynb
+	- [Generative Teaching Networks](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%201/Generative_Teaching_Networks.ipynb
 
 
 #### Week 2: Image-to-Image Translation
@@ -113,15 +113,18 @@ The GAN Specialization on Coursera contains three courses:
 - Leverage the image-to-image translation framework and identify extensions, generalizations, and applications of this framework to modalities beyond images.
 - Implement Pix2Pix, a paired image-to-image translation GAN, to adapt satellite images to map routes (and vice versa) with advanced U-Net generator and PatchGAN discriminator architectures.
 - Assignments:
-	- [U-Net](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/C3W2/U-NET.ipynb)
-	- [Pix2Pix](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/C3W2/PIX2PIX_GAN.ipynb)
+	- [U-Net](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%202/U-NET.ipynb
+	- [Pix2Pix](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%202/PIX2PIX_GAN.ipynb
+	- [GauGAN](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%202/C3W2_GauGAN_(Optional).ipynb
+	- [SRGAN](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%202/C3W2_SRGAN_(Optional).ipynb
 
 #### Week 3: Image-to-Image Unpaired Translation
 
 - Compare paired image-to-image translation to unpaired image-to-image translation and identify how their key difference necessitates different GAN architectures.
 - Implement CycleGAN, an unpaired image-to-image translation model, to adapt horses to zebras (and vice versa) with two GANs in one.
 - Assignment:
-	- [CycleGAN](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/C3W3/Cycle_GAN.ipynb)
+	- [CycleGAN](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%203/Cycle_GAN.ipynb
+	- [MUNIT](https://nbviewer.jupyter.org/github/Alvi-Rahman/GAN-Specialization/blob/master/C3%20-%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/Week%203/C3W3_MUNIT_(Optional).ipynb
 
 ---
 # Specialization Completion Certificate
